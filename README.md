@@ -26,33 +26,37 @@ This is a simple Python-based To-Do List application that allows users to manage
 1. **Running the Program**: Simply run the Python script.
    ```bash
    python todo_list.py
+   ```
+## Screenshots
+![Screenshot 2024-11-24 195053](https://github.com/user-attachments/assets/685be320-3b99-426f-b331-b05fb7a9b36e)
 
    
 ## OUTPUT
 
-To-Do List Application
+**To-Do List Application**
 1. Show tasks
 2. Add task
 3. Remove task
 4. Mark task as completed
 5. Exit
-Choose an option (1-5): 1
 
-Your To-Do List:
-1. Buy groceries
-2. Walk the dog
+- **Choose an option (1-5):**  1
 
-Choose an option (1-5): 2
-Enter the task you want to add: Finish homework
-Task 'Finish homework' added to the list.
+   **Your To-Do List:**
+     1. Buy groceries
+     2. Walk the dog
 
-Choose an option (1-5): 3
-Enter the task number to remove: 1
-Task 'Buy groceries' removed from the list.
+- **Choose an option (1-5):**  2<br>
+     * **Enter the task you want to add:**  Finish homework<br>
+     * Task 'Finish homework' added to the list.
 
-Choose an option (1-5): 4
-Enter the task number to mark as completed: 2
-Task 'Walk the dog' marked as completed and removed from the list.
+- **Choose an option (1-5):**  3<br>
+     * **Enter the task number to remove:**  1<br>
+     * Task 'Buy groceries' removed from the list.
 
-Choose an option (1-5): 5
-Goodbye!
+- **Choose an option (1-5):**  4<br>
+     * **Enter the task number to mark as completed:**  2<br>
+     * Task 'Walk the dog' marked as completed and removed from the list.
+
+- **Choose an option (1-5):**  5<br>
+     * Goodbye!
